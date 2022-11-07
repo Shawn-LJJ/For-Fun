@@ -11,3 +11,4 @@ List of programs:
 - Conway's Game Of Life (Working) [python]
 - Matrix calculation (WIP) [python]
 - Network subnetting calculator (WIP) [python]
+- Binomial probability model [python]
